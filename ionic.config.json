@@ -1,0 +1,7 @@
+{
+  "name": "app04_geo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
